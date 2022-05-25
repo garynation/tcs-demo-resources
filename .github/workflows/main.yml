@@ -39,3 +39,4 @@ jobs:
           env-id: ${{ secrets.ACCURICS_ENV_ID }}
           url: https://cloud.tenable.com/cns
           # Optional args
+repo: "https://github.com/robertmaury/AWS.git"
